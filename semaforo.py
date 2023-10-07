@@ -1,5 +1,5 @@
 from gpiozero import LED
-from time import sleep  
+ 
 
 LED_verde = LED(17)
 LED_ambar = LED(27)
